@@ -1,1 +1,1 @@
-![](hello.gif)
+Hello there.
