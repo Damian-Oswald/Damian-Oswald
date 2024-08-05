@@ -1,2 +1,2 @@
 <a href="https://github.com/damian-oswald/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=damian-oswald&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a>
-<a href="https://github.com/damian-oswald/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damian-oswald&layout=compact&theme=default&hide_border=true" /></a>
+<a href="https://github.com/damian-oswald/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damian-oswald&layout=donut&theme=default&hide_border=true" /></a>
